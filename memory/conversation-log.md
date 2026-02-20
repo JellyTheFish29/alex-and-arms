@@ -109,3 +109,25 @@
 
 - User requested: "commit tag push".
 - Prepared repository updates for commit, semantic checkpoint tagging, and push to origin.
+
+### Entry 013
+
+- User shared they are still learning Git and requested helpful tips along the way.
+- Preference noted: provide lightweight, practical Git guidance during normal workflow.
+
+### Entry 014
+
+- User confirmed they want guided, beginner-friendly Git coaching in future sessions.
+- User shared additional personal context:
+  - Nitin is the developer collaborator introducing Git and Codex workflows.
+  - User is learning how technical tools help non-tech professionals in technical environments.
+  - User is building a blog around this concept.
+- Action taken: updated project memory and requested global profile expansion to include this context.
+
+### Entry 015
+
+- User confirmed current project status:
+  - Waiting for product category information from business owners.
+  - Waiting for access to Google profiles/accounts.
+- User asked to keep upcoming keyword mapping simple due to beginner SEO level.
+- Action taken: updated `memory/next-actions.md` to reflect blockers and beginner-friendly execution preference.

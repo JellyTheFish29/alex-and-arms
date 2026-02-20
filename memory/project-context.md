@@ -10,7 +10,7 @@
 ## Stakeholders
 
 - Jelly: SEO and content strategist
-- Developer: website implementation partner
+- Developer: Nitin (website implementation partner)
 - Business location context: Vadapalani, Chennai
 
 ## Primary goals (current)
@@ -70,6 +70,10 @@
   - Define technical terms clearly.
   - Explain what each part of a technical solution does.
   - Do not assume deep engineering context.
+- Learning goal:
+  - Actively learning Git/Codex workflows for non-technical professionals in technical teams.
+- Personal initiative:
+  - Building a blog around how non-tech-background people can use technical tools effectively in tech environments.
 
 ## Last updated
 

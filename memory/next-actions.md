@@ -2,12 +2,11 @@
 
 ## Current TODO
 
-1. Finalize category list and brand list from business owners (required for keyword mapping).
-2. Build Chennai-focused keyword map for pillar/category/brand pages.
-3. Finalize URL architecture and then implement redirect system.
-4. Finalize homepage hero headline after keyword mapping is locked.
-5. Complete GBP + Google Ads access to validate local demand in Keyword Planner.
-6. Draft page-level SEO briefs: title, H1, intent, section outline, schema, internal links.
+1. Wait for final category list and brand list from business owners (required input).
+2. Wait for Google profile/account access needed for SEO workflow.
+3. Once both are available, run a beginner-friendly keyword mapping session (simple, practical structure).
+4. Then finalize URL architecture and redirect planning.
+5. Then finalize homepage hero headline and page-level SEO briefs.
 
 ## Handoff Notes
 
@@ -16,6 +15,7 @@
 - Keep `memory/project-context.md` updated when goals/constraints change.
 - Treat redirects as blocked until final URL map is approved.
 - Preserve premium-accessible tone; avoid discount-led messaging.
+- User preference: do not overcomplicate keyword mapping; keep process beginner-friendly.
 
 ## Last updated
 
