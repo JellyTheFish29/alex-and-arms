@@ -61,6 +61,16 @@
 - Persist conversation context in repository memory files
 - Keep memory rich enough for handoffs between agents
 
+## Collaboration preferences (Jelly)
+
+- Background: journalism/content with 6+ years in technical organizations.
+- Comfortable with: systems thinking, structured data, CMS, documentation workflows, and cross-functional technical collaboration.
+- Not responsible for: backend implementation, software architecture design, infrastructure operations, or low-level programming.
+- Explanation style required:
+  - Define technical terms clearly.
+  - Explain what each part of a technical solution does.
+  - Do not assume deep engineering context.
+
 ## Last updated
 
 - February 20, 2026
