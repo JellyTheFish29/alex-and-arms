@@ -203,3 +203,9 @@
   - `business-listing/LOCAL_PROFILES_SETUP_CHECKLIST.md`
   - `business-listing/LOCAL_PROFILES_TRACKER.xlsx`
 - Removed nested `notes-for-jelly/business-listing` folder.
+
+### Entry 025
+
+- User asked to stop `.DS_Store` from appearing in git workflow.
+- Added `.DS_Store` to new `.gitignore`.
+- Removed tracked `.DS_Store` from git index (`git rm --cached .DS_Store`) while keeping local file on disk.
