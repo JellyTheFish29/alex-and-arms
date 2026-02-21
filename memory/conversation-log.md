@@ -131,3 +131,75 @@
   - Waiting for access to Google profiles/accounts.
 - User asked to keep upcoming keyword mapping simple due to beginner SEO level.
 - Action taken: updated `memory/next-actions.md` to reflect blockers and beginner-friendly execution preference.
+
+### Entry 016
+
+- User requested a local profiles setup checklist (Google/Bing/Apple and related local visibility workflow).
+- Added beginner-friendly operational checklist at:
+  - `notes-for-jelly/LOCAL_PROFILES_SETUP_CHECKLIST.md`
+
+### Entry 017
+
+- User requested a neatly formatted Excel tracker with color-coded status columns.
+- Created `notes-for-jelly/LOCAL_PROFILES_TRACKER.xlsx` with:
+  - Structured task table for local profile setup and maintenance.
+  - Status dropdown (`Not Started`, `In Progress`, `Blocked`, `Done`) with color coding.
+  - Priority dropdown (`High`, `Medium`, `Low`) with color coding.
+  - Frozen header row, filters, borders, and readable column widths.
+  - Additional `Legend & How To Use` sheet.
+
+### Entry 018
+
+- User requested removing `Owner`, `Target Date`, and `Proof Link` columns from the Excel tracker.
+- Updated `notes-for-jelly/LOCAL_PROFILES_TRACKER.xlsx`:
+  - Remaining columns: `Section`, `Task`, `Platform`, `Status`, `Priority`, `Completed Date`, `Notes`.
+  - Updated filter range, column widths, and legend instructions to match new schema.
+
+### Entry 019
+
+- User reported dropdown issues after column removal in the tracker.
+- Diagnosed root cause: data validations and conditional formatting were still bound to old columns.
+- Fixed `notes-for-jelly/LOCAL_PROFILES_TRACKER.xlsx` mappings:
+  - `Status` dropdown + colors moved to `D2:D34`
+  - `Priority` dropdown + colors moved to `E2:E34`
+  - Removed stale validation/formatting rules on old columns.
+
+### Entry 020
+
+- User reported dropdown color behavior still not working reliably in Excel.
+- Rebuilt conditional formatting formulas using anchored row rules for compatibility:
+  - Status: `$D2=\"Not Started|In Progress|Blocked|Done\"` on `D2:D35`
+  - Priority: `$E2=\"High|Medium|Low\"` on `E2:E35`
+- Saved updated workbook at `notes-for-jelly/LOCAL_PROFILES_TRACKER.xlsx`.
+
+### Entry 021
+
+- User reported color issue persisted after reopening file.
+- Rebuilt conditional formatting using `cellIs/equal` rules (instead of expression formulas) for stronger Excel compatibility.
+- Enabled `fullCalcOnLoad` so Excel recalculates formatting rules when opening.
+- Verified resulting rule map:
+  - `D2:D35` for Status values
+  - `E2:E35` for Priority values
+
+### Entry 022
+
+- User shared screenshot of Excel "Manage Rules" and asked what was wrong.
+- Diagnosis: rule ranges and conditions were correct, but visible fill rendering still appeared inconsistent.
+- Applied stronger fix by reapplying all conditional-format rules with explicit `start_color` + `end_color` solid fills.
+- Verified workbook now stores fill colors in rule DXF records for both status and priority ranges.
+
+### Entry 023
+
+- User requested a separate folder for business listing assets.
+- Created `notes-for-jelly/business-listing/`.
+- Moved files:
+  - `notes-for-jelly/business-listing/LOCAL_PROFILES_SETUP_CHECKLIST.md`
+  - `notes-for-jelly/business-listing/LOCAL_PROFILES_TRACKER.xlsx`
+
+### Entry 024
+
+- User clarified `notes-for-jelly` is strictly for personal learning/notes.
+- Moved business-listing assets to top-level project folder:
+  - `business-listing/LOCAL_PROFILES_SETUP_CHECKLIST.md`
+  - `business-listing/LOCAL_PROFILES_TRACKER.xlsx`
+- Removed nested `notes-for-jelly/business-listing` folder.
