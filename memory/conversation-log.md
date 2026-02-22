@@ -348,3 +348,82 @@
   - No separate Shop-by-Room hub page assumption.
   - Direct room URL examples (`/bathroom-solutions`, `/kitchen-essentials`, etc.).
   - Optional future grouped path pattern (`/rooms/...`) without requiring a hub page.
+
+### Entry 040
+
+- User defined brand-page architecture:
+  - Major brands -> dedicated brand pages with brand-specific categories.
+  - Smaller brands -> product listing page with brand filter applied.
+  - Backend admin must enable/disable dedicated brand page per brand.
+- Added dev spec:
+  - `docs/BRAND_PAGE_STRATEGY.md`
+- Updated project context with brand strategy as an active architecture requirement.
+
+### Entry 041
+
+- User requested consolidating the two dev notes into a single document.
+- Created consolidated brief:
+  - `docs/DEV_TEAM_IMPLEMENTATION_BRIEF.md`
+- Removed previous split docs to avoid duplicate guidance:
+  - `docs/SHOP_BY_ROOM_IMPLEMENTATION_NOTE.md`
+  - `docs/BRAND_PAGE_STRATEGY.md`
+
+### Entry 042
+
+- User requested a visual representation of website structure.
+- Added:
+  - `docs/WEBSITE_STRUCTURE_VISUAL.md`
+- Includes Mermaid sitemap covering:
+  - Home, Products taxonomy, room pages, brand flow, and contact.
+
+### Entry 043
+
+- User requested removing website structure visual file for now.
+- Deleted:
+  - `docs/WEBSITE_STRUCTURE_VISUAL.md`
+
+### Entry 044
+
+- User requested interpretation of updated `seo/Product_Taxonomy_Nav.xlsx`.
+- Reviewed sheet `Products Taxonomy` and extracted current intended hierarchy.
+- Confirmed primary L1 groups appear as:
+  - Tiles
+  - Sanitaryware & Bathroom Fittings
+  - Kitchen Appliances & Sinks
+- Noted explicit category treatment for:
+  - `Kitchen Sink Faucets` as L2 under Kitchen Appliances & Sinks
+  - `Floor Drains`, `Differently-Abled Bath Products`, and `Public Restroom Solutions` as direct L2 entries under Sanitaryware & Bathroom Fittings.
+
+### Entry 045
+
+- User requested moving `Urinals` to L2 and marking it as non-dedicated page behavior (card to product list).
+- Updated `seo/Product_Taxonomy_Nav.xlsx`:
+  - `Urinals` moved from L3 row style to L2 row style.
+  - Applied direct-to-list marker (`>`), matching existing color/styling pattern used for non-dedicated L2 categories.
+
+### Entry 046
+
+- Implemented updates in `seo/Product_Taxonomy_Nav.xlsx` per user-approved plan.
+- `Brands` sheet:
+  - Filled `Needs page? (Y/N)` for all listed brands using keyword-demand rule (`Y` if max avg monthly >= 50; else `N`).
+  - 19/19 brand rows now have `Y` or `N`.
+- `Browse by Room` sheet:
+  - Filled `Associated L2 or L3 cards` as comma-separated values for all room rows.
+  - Added missing rooms:
+    - `Utility` (`Utility Solutions` title)
+    - `Commercial Restroom Solutions`
+  - Final rooms present: Bathroom, Kitchen, Outdoor, Utility, Commercial Restroom Solutions.
+
+### Entry 047
+
+- User requested a persistent to-do list that can be shown and updated anytime.
+- Created checklist file and then moved it to notes path per user preference:
+  - `notes-for-jelly/JELLY_TODO.md`
+
+### Entry 048
+
+- User requested to-do formatting updates (checkboxes/casing) while retaining user ownership of adding items.
+- Updated `notes-for-jelly/JELLY_TODO.md` formatting accordingly.
+- Preference locked for this project:
+  - Jelly adds list items.
+  - Assistant asks before checking items off as complete.

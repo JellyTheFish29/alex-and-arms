@@ -56,6 +56,13 @@
 - Mapping rule: one page = one primary keyword cluster
 - Priority logic: commercial intent first
 
+## Brand page strategy (current)
+
+- Major brands: dedicated brand landing pages with brand-specific category navigation.
+- Smaller brands: route to product listing pages with brand filter pre-applied.
+- Backend/admin requirement: enable/disable dedicated brand page per brand.
+- Rollout approach: launch dedicated pages for major brands first, expand later based on demand and catalog depth.
+
 ## Working preferences
 
 - Persist conversation context in repository memory files
@@ -74,6 +81,11 @@
   - Actively learning Git/Codex workflows for non-technical professionals in technical teams.
 - Personal initiative:
   - Building a blog around how non-tech-background people can use technical tools effectively in tech environments.
+- To-do list workflow:
+  - `notes-for-jelly/JELLY_TODO.md` is user-managed by Jelly.
+  - Jelly adds new items.
+  - Assistant may improve formatting/checklist style when asked.
+  - Assistant must ask for confirmation before checking off completed items.
 
 ## Last updated
 
