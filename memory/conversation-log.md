@@ -209,3 +209,142 @@
 - User asked to stop `.DS_Store` from appearing in git workflow.
 - Added `.DS_Store` to new `.gitignore`.
 - Removed tracked `.DS_Store` from git index (`git rm --cached .DS_Store`) while keeping local file on disk.
+
+### Entry 026
+
+- User shared rough category CSV from business owners and asked for interpretation.
+- Reviewed file in Downloads:
+  - `/Users/darshinipaul/Downloads/Alex and Arms - Website Collaboration - Categories and Subcategories.csv`
+- Confirmed intent and structure are understandable, with known hierarchy inconsistencies.
+- Confirmed current top commercial categories from user direction:
+  - Tiles
+  - Sanitaryware
+  - Taps & Faucets (naming to be finalized)
+
+### Entry 027
+
+- User asked whether Shop-by-Room items should also exist under main Products and requested full coverage check.
+- Confirmed architecture principle:
+  - Products = primary taxonomy pages
+  - Shop by Room = secondary discovery pages that link to those same product pages
+- Identified need to ensure no CSV product is missing from primary product taxonomy before final sitemap.
+
+### Entry 028
+
+- User requested an Excel version of complete product taxonomy + Shop-by-Room mapping.
+- Generated workbook:
+  - `business-listing/PRODUCT_TAXONOMY_AND_SHOP_BY_ROOM.xlsx`
+- Workbook includes:
+  - `Master Taxonomy` sheet (normalized hierarchy + source fields + confirmation flags)
+  - `Shop by Room` sheet (room-based split of same product taxonomy)
+  - `Notes` sheet (usage guidance)
+
+### Entry 029
+
+- User requested taxonomy workbook be kept in a separate SEO folder, not `business-listing`.
+- Moved file to:
+  - `seo/PRODUCT_TAXONOMY_AND_SHOP_BY_ROOM.xlsx`
+
+### Entry 030
+
+- User requested implementation of taxonomy content + image asset pack workflow.
+- Delivered new workbook:
+  - `seo/PRODUCT_TAXONOMY_CONTENT_AND_IMAGES.xlsx`
+  - Sheets: `Master Taxonomy`, `Descriptions`, `Hero Images`, `Card Images`, `Source Register`
+- Applied `A -> D` copy on `Master Taxonomy` for all data rows.
+- Added description copy for all Level 1 + Level 2 items.
+- Generated required image assets and folders:
+  - `website/samples/images/hero/l1/`
+  - `website/samples/images/hero/l2/`
+  - `website/samples/images/card/l2/`
+  - `website/samples/images/card/l3/`
+  - plus `website/samples/images/website-sample-images.zip`
+- Coverage achieved:
+  - Hero images: 24/24
+  - Card images: 73/73
+- Source handling note:
+  - Due repeated third-party rate limits during bulk fetch, final package uses cached free-stock sample images from prior Wikimedia-source fetches, with source metadata documented in workbook for review/replacement before production publish.
+
+### Entry 031
+
+- User rejected the delivered sample images and requested full removal.
+- Removed generated image assets from filesystem:
+  - deleted `website/samples/images/` (including prior zip).
+- Cleaned workbook image data in:
+  - `seo/PRODUCT_TAXONOMY_CONTENT_AND_IMAGES.xlsx`
+  - `Hero Images`: removed all data rows (headers retained)
+  - `Card Images`: removed all data rows (headers retained)
+  - `Source Register`: removed all data rows (headers retained)
+
+### Entry 032
+
+- User shared handwritten photo of partner brands and requested extraction.
+- Captured brand list from image with ambiguous spellings flagged for confirmation before final website use.
+
+### Entry 033
+
+- User clarified brand spellings from handwritten list:
+  - `GEKO?` should be treated as `Geco`.
+  - `GODRY?` should be treated as `Godry`.
+  - `GERMA` remains uncertain as a brand identity question (difference/verification pending).
+- User requested crossed-out brand be ignored.
+
+### Entry 034
+
+- User requested `Geco` and `Godry` also be marked as `Needs confirmation` for now.
+- Working status for uncertain brand spellings:
+  - Geco: Needs confirmation
+  - Godry: Needs confirmation
+  - Germa: Needs confirmation
+
+### Entry 035
+
+- User requested the best keyword planner seed list and asked for it in an easy reference file.
+- Added:
+  - `seo/keyword-research/KEYWORD_PLANNER_INPUT_LIST.md`
+- File includes:
+  - Pass 1 core category seed batches
+  - Pass 2 brand seed batches
+  - export naming guidance for CSV handoff
+
+### Entry 036
+
+- User added Keyword Planner exports in:
+  - `seo/keyword-research/first-pass-core/`
+  - `seo/keyword-research/second-pass-brands/`
+- Validation result:
+  - 24 CSV files present.
+  - Files are UTF-16 and tab-delimited (standard Google Ads export format).
+  - Combined-brand exports are acceptable and can be parsed for mapping.
+
+### Entry 037
+
+- Parsed all 24 Keyword Planner CSV exports and generated draft keyword outputs in:
+  - `seo/keyword-research/output/DEDUPED_KEYWORDS_MASTER.csv`
+  - `seo/keyword-research/output/PAGE_KEYWORD_MAPPING_DRAFT.csv`
+  - `seo/keyword-research/output/LAUNCH_PRIORITY_KEYWORDS.csv`
+  - `seo/keyword-research/output/KEYWORD_RESEARCH_SUMMARY.md`
+- Current parse stats:
+  - 1,425 deduplicated keywords
+  - 471 core-source keywords
+  - 954 brand-source keywords
+  - 209 unmapped keywords needing review
+- Note: broad/noisy terms are present and require manual relevance filtering in the next pass.
+
+### Entry 038
+
+- User requested a dev-facing note for `Shop by Room` implementation.
+- Added:
+  - `docs/SHOP_BY_ROOM_IMPLEMENTATION_NOTE.md`
+- Included requirements:
+  - Keep `Products` and `Shop by Room` separate in top navigation.
+  - Phase 1: room pages link to existing categories.
+  - Phase 2: support room-tagging for products/categories for dynamic curation.
+
+### Entry 039
+
+- User requested adding URL guidance for room pages to the dev note.
+- Updated `docs/SHOP_BY_ROOM_IMPLEMENTATION_NOTE.md` with:
+  - No separate Shop-by-Room hub page assumption.
+  - Direct room URL examples (`/bathroom-solutions`, `/kitchen-essentials`, etc.).
+  - Optional future grouped path pattern (`/rooms/...`) without requiring a hub page.
