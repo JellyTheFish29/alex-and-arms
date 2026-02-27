@@ -4,11 +4,12 @@ This list is user-managed by Jelly.
 
 ## Primary Objectives
 
-- [ ] Check keywords for Browse by Room
-- [ ] Create clean keyword-mapping sheet based on taxonomy
-- [ ] Identify primary and secondary keywords for each confirmed page
+- [x] Check keywords for Browse by Room
+- [x] Create clean keyword-mapping sheet based on taxonomy
+- [x] Identify primary and secondary keywords for each confirmed page
 - [ ] Figure out brand page layout
 - [ ] Figure out Browse by Room layout
+- [ ] Work on homepage content
 
 ## Secondary Quest
 

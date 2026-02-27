@@ -1,0 +1,39 @@
+page_type,page,selected_rows,keep_count,maybe_count,drop_count,status
+Home,Home,8,8,0,0,Covered
+About,About,0,0,0,0,Needs new search
+L1 Product,Tiles,12,12,0,0,Covered
+L2 Product,Vitrified Tiles,12,11,1,0,Covered
+L2 Product,Ceramic Tiles,9,5,2,2,Covered
+L2 Product,Floor Tiles,12,12,0,0,Covered
+L2 Product,Wall Tiles,12,10,2,0,Covered
+L1 Product,Sanitaryware & Bathroom Fittings,12,12,0,0,Covered
+L2 Product,Toilets and Water Closets,12,12,0,0,Covered
+L2 Product,Urinals,12,12,0,0,Covered
+L2 Product,Wash Basins,12,12,0,0,Covered
+L2 Product,Taps & Faucets,12,2,10,0,Covered
+L2 Product,Bath & Wellness,12,7,5,0,Covered
+L2 Product,Bathroom Accessories,12,2,8,2,Covered
+L2 Product,Mirrors & Cabinets,12,12,0,0,Covered
+L2 Product,Water Heaters,12,12,0,0,Covered
+L2 Product,Floor Drains,12,1,11,0,Covered
+L2 Product,Differently-Abled Bath Products,12,1,11,0,Covered
+L2 Product,Public Restroom Solutions,12,1,11,0,Covered
+L1 Product,Kitchen Appliances & Sinks,12,12,0,0,Covered
+L2 Product,Sinks,12,12,0,0,Covered
+L2 Product,Chimneys,12,12,0,0,Covered
+L2 Product,Kitchen Sinks & Faucets,12,12,0,0,Covered
+,Other Appliances,2,1,1,0,Covered
+Brand,GROHE,12,12,0,0,Covered
+Brand,RAK Ceramics,12,12,0,0,Covered
+Brand,AGL,12,12,0,0,Covered
+Brand,Hindware,12,12,0,0,Covered
+Brand,Carysil,12,12,0,0,Covered
+Brand,Franke,12,12,0,0,Covered
+Brand,Roff,12,12,0,0,Covered
+Brand,Ardex Endura,12,11,1,0,Covered
+Brand,AO Smith,12,12,0,0,Covered
+Brand,Racold,12,12,0,0,Covered
+Room,Bathroom Solutions,12,12,0,0,Covered
+Room,Kitchen Essentials,12,12,0,0,Covered
+Room,Outdoor & Parking,12,7,4,1,Covered
+Room,Commercial Restrooms,12,12,0,0,Covered

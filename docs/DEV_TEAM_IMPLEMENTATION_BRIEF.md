@@ -125,3 +125,47 @@ Behavior:
 - Later:
   - Add room-tagging model for products/categories and expand dynamic curation.
 
+## 5) Product Page Metadata at Scale
+
+Context:
+- Hundreds of product-specific pages are expected from the product catalog/listing.
+- Metadata should be generated from a consistent template system, not written manually per SKU.
+
+Implementation direction:
+- Keep category/room pages as primary SEO targets.
+- Product pages should still have unique, structured metadata for discoverability and CTR.
+- Use deterministic templates with fallback rules to avoid empty or duplicated tags.
+
+Suggested metadata templates:
+- Title: `{Product Name} | {Category} in Chennai | Alex & Arms Ceramica`
+- Meta description: `Explore {Product Name} in {Category}. Visit Alex & Arms Ceramica, Chennai for styles, sizes, and pricing support.`
+- H1: `{Product Name}`
+- URL: `/products/{category-slug}/{product-slug}`
+
+Fallback rules:
+- If `product_name` is missing, fallback to `{Brand} {Category}`.
+- If `brand` is missing, do not force brand in title/description.
+- Enforce length guardrails:
+  - Title target: 50-60 characters
+  - Meta description target: 140-160 characters
+- Prevent duplicates by appending differentiators when needed:
+  - size / finish / variant token (only if required)
+
+Suggested product data fields:
+- `product_name`
+- `brand`
+- `category_l1`
+- `category_l2`
+- `room_tags` (future-ready for room curation)
+- `material_or_finish`
+- `size_or_variant`
+- `slug`
+- `primary_keyword` (optional per product if available)
+- `secondary_keywords` (optional)
+- `meta_title`
+- `meta_description`
+- `h1`
+- `canonical_url`
+
+Note:
+- Team may already have parts of this implemented. If so, treat this as alignment with SEO/content requirements for consistency and scale.

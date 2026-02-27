@@ -427,3 +427,21 @@
 - Preference locked for this project:
   - Jelly adds list items.
   - Assistant asks before checking items off as complete.
+
+### Entry 049
+
+- User requested duplicating `SEO Master List` sheet in `seo/Product_Taxonomy_Nav.xlsx` for ongoing edits.
+- Created duplicate sheet:
+  - `SEO Master List-working`
+
+### Entry 050
+
+- User requested analysis of `seo/keyword-research/keyword_run_2.0/Dump` CSVs (focused + `-wide`).
+- Reviewed 33 files total:
+  - 17 focused runs
+  - 16 wide-context runs
+- Observed major coverage and quality patterns:
+  - Wide runs significantly increase keyword volume/coverage but introduce heavy noise.
+  - Strong synonym signal confirmed: `geyser` is actively searched alongside `water heater`.
+  - Brand-wide sets for AO Smith/Racold/Grohe/Mirrors include many irrelevant/service-intent terms requiring filtering.
+- Next-step recommendation captured: use focused files for primary keyword selection and wide files for secondary/context expansion after relevance filtering.

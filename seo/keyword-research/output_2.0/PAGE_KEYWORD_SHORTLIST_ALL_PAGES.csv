@@ -1,0 +1,428 @@
+page_type,page,keyword,avg_monthly,competition,source_run,source_file,recommendation,reason
+Home,Home,tile showroom chennai,5000,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Home,Home,athangudi tiles chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Home,Home,bathroom fittings chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Home,Home,cool roof tiles chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Home,Home,floor tiles chennai,500,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Home,Home,kag tiles chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Home,Home,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Home,Home,simpolo tiles chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,tile showroom chennai,5000,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,athangudi tiles chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,best tile shop in chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,best tiles showroom in chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,chennai tile shop,500,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,cool roof tiles chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,cost of tiles in chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,floor tiles chennai,500,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,johnson tiles chennai showroom,500,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,kag tiles chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,kag tiles showroom chennai,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Tiles,kag tiles showroom vanagaram,500,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,2x2 vitrified tiles price in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,agl double charge vitrified tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,agl vitrified tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,agl vitrified tiles price list,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,cost of vitrified tiles in chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,rak double charge vitrified tiles price,50,Low,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,rak vitrified tiles price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,rak vitrified tiles price list,50,Low,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,vitrified tiles chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,vitrified tiles price chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,vitrified tiles rate in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Vitrified Tiles,agl double charge vitrified tiles,50,Unknown,2.0,agl-wide.csv,Maybe,Low and non-local signal
+L2 Product,Ceramic Tiles,ceramic tiles chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Ceramic Tiles,ceramic tiles dealers in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Ceramic Tiles,ceramic tiles manufacturers in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Ceramic Tiles,ceramic tiles price in chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Ceramic Tiles,rak ceramic tiles price,50,Low,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Ceramic Tiles,agl ceramic tiles,50,Unknown,2.0,agl-wide.csv,Maybe,Low and non-local signal
+L2 Product,Ceramic Tiles,rk ceramic tiles,50,Low,2.0,rak-wide.csv,Maybe,Low and non-local signal
+L2 Product,Ceramic Tiles,crystal ceramic tiles chennai,0,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Drop,No volume
+L2 Product,Ceramic Tiles,ceramic tiles rak,0,Unknown,2.0,rak-wide.csv,Drop,No volume
+L2 Product,Floor Tiles,floor tiles chennai,500,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,2x2 floor tiles price in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,3d floor tiles price in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,agl floor tiles price,50,Low,2.0,agl-wide.csv,Keep,Relevant
+L2 Product,Floor Tiles,agl floor tiles price list,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+L2 Product,Floor Tiles,bathroom floor tiles chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,bathroom floor tiles price in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,best floor tiles in chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,ceramic floor tiles price in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,cost of floor tiles in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,floor tiles 2x2 price in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Floor Tiles,floor tiles cost in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,agl wall tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+L2 Product,Wall Tiles,bathroom wall tiles price in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,exterior wall tiles chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,foam wall tiles in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,kitchen wall tiles chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,kitchen wall tiles design in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,kitchen wall tiles price in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,rak wall tiles price list,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Wall Tiles,wall tiles chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,wall tiles price in chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wall Tiles,agl bathroom wall tiles,50,Unknown,2.0,agl-wide.csv,Maybe,Low and non-local signal
+L2 Product,Wall Tiles,agl kitchen wall tiles,50,Unknown,2.0,agl-wide.csv,Maybe,Low and non-local signal
+L1 Product,Sanitaryware & Bathroom Fittings,bathroom fittings chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,bathroom fittings wholesale in chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,bathroom fittings chennai parrys,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,bathroom fittings manufacturers in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,bathroom fittings showroom in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,best bathroom fittings in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,cera sanitaryware dealers in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,hindware sanitaryware chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,hindware sanitaryware dealers in chennai,50,Unknown,2.0,hindware.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,hindware sanitaryware dealers near me,50,High,2.0,hindware-wide.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,ik classiva premium tiles and sanitaryware in kilpauk chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Sanitaryware & Bathroom Fittings,jaquar bathroom fittings chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,western toilet price chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,cera western toilet price in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,grohe wall hung toilet price,50,High,2.0,grohe-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,grohe wc price,50,Low,2.0,grohe-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,handicap toilet accessories near me,50,High,2.0,differently-abled-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,hindustan western toilet price in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,hindware automatic toilet price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,hindware bathroom hindware indian toilet seat price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,hindware english toilet seat price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,hindware floor mounted wc price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,hindware italian collection toilet seat price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Toilets and Water Closets,hindware one piece toilet price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Urinals,bathroom urinal price,50,Unknown,2.0,urinals-wide.csv,Keep,Relevant
+L2 Product,Urinals,hindware urinal 60002 price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Urinals,hindware urinal basin price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Urinals,hindware urinal pot price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Urinals,hindware urinal price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Urinals,jaquar urinal price,50,Low,2.0,urinals-wide.csv,Keep,Relevant
+L2 Product,Urinals,kerovit urinal price,50,Low,2.0,urinals-wide.csv,Keep,Relevant
+L2 Product,Urinals,ladies urinal hindware price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Urinals,mens urinal price,50,High,2.0,urinals-wide.csv,Keep,Relevant
+L2 Product,Urinals,parryware flat back urinal price,50,Low,2.0,urinals-wide.csv,Keep,Relevant
+L2 Product,Urinals,public urinal near me,50,Low,2.0,commercial-restroom-room-page-wide.csv,Keep,Relevant
+L2 Product,Urinals,urinal cera price,50,Unknown,2.0,urinals-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,designer wash basin chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wash Basins,designer wash basin in chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wash Basins,grohe wash basin price,50,Low,2.0,grohe-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,hindware toilet basin price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,hindware urinal basin price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,parryware wash basin price in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wash Basins,rak basin price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,rak ceramics basin price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,rak ceramics wash basin price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,rak wash basin price,50,High,2.0,rak-wide.csv,Keep,Relevant
+L2 Product,Wash Basins,stainless steel wash basin price in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Wash Basins,wash basin chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Taps & Faucets,grohe health faucet price,50,High,2.0,grohe-wide.csv,Keep,Relevant
+L2 Product,Taps & Faucets,hindware toilet hand shower price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Taps & Faucets,ao smith faucet,50,Unknown,2.0,ao-smith-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,commercial lavatory faucet,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,franke sinks and faucets,50,Unknown,2.0,franke-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,grohe automatic faucet,50,Unknown,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,grohe bathroom faucets,50,High,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,grohe bathroom sink faucets,50,Unknown,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,grohe bathtub faucet,50,High,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,grohe concetto faucet,50,High,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,grohe eurosmart faucet,50,Unknown,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Taps & Faucets,grohe faucets,50,Medium,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bath & Wellness,bathtub chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bath & Wellness,bathtub rooms in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bath & Wellness,hindware bathtub price in chennai,50,Unknown,2.0,hindware.csv,Keep,Relevant
+L2 Product,Bath & Wellness,jacuzzi bath in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bath & Wellness,jacuzzi bathtub chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bath & Wellness,rooms with bathtub in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bath & Wellness,shower enclosure chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bath & Wellness,alcove acrylic bathtub,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bath & Wellness,bathtub aids for disabled,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bath & Wellness,bathtub equipment for disabled,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bath & Wellness,bathtub leaking,50,Medium,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bath & Wellness,bathtub overflow,50,Low,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,bathroom accessories chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bathroom Accessories,bathroom accessories shop in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Bathroom Accessories,bathroom accessories disabled persons,50,High,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,disabled bathroom accessories,50,High,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,grohe bathroom accessories,50,Medium,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,grohe essentials towel ring,50,Unknown,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,grohe towel ring,50,Unknown,2.0,grohe-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,handicap bathroom accessories,50,High,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,public bathroom accessories,50,Unknown,2.0,commercial-restroom-room-page-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,public restroom toilet paper holder,50,Unknown,2.0,commercial-restroom-room-page-wide.csv,Maybe,Low and non-local signal
+L2 Product,Bathroom Accessories,handicap bathroom accessories chennai,0,Unknown,2.0,differently-abled-wide.csv,Drop,No volume
+L2 Product,Bathroom Accessories,handicap bathroom accessories near me,0,Unknown,2.0,differently-abled-wide.csv,Drop,No volume
+L2 Product,Mirrors & Cabinets,bathroom mirror shop near me,500,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom cabinets chennai,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom mirror cabinet chennai,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom mirror low price,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom mirror price,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom mirror stores near me,50,Unknown,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom mirrors chennai,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom mirrors for sale near me,50,Unknown,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom mirrors near me,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,bathroom vanity mirrors near me,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,led bathroom mirrors near me,50,Low,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Mirrors & Cabinets,led mirror chennai,50,High,2.0,mirrors-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith 10 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith 15 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith 25 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith 3 litre geyser price,50,Unknown,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith 5 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith 6 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith 6 litre water heater price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith faston geyser 3 ltr price,50,Unknown,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith gas geyser price,50,Unknown,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith geyser 10 ltr price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith geyser 10 ltr price 5 star,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Water Heaters,ao smith geyser 15 ltr price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+L2 Product,Floor Drains,floor drain price,50,Unknown,2.0,floor-drain-wide.csv,Keep,Relevant
+L2 Product,Floor Drains,bathroom drain,500,High,2.0,floor-drain-wide.csv,Maybe,Good term but weak local signal
+L2 Product,Floor Drains,1 1 2 shower drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,2 shower drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,3 shower drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,4 1 4 shower drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,4 shower drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,aco linear drain,50,Low,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,aco shower drain,50,High,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,adjustable linear drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,adjustable linear shower drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Floor Drains,adjustable shower drain,50,Unknown,2.0,floor-drain-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,handicap toilet accessories near me,50,High,2.0,differently-abled-wide.csv,Keep,Relevant
+L2 Product,Differently-Abled Bath Products,accessible bathroom shower,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,accessories for disabled bathroom,50,High,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,accessories for handicapped bathrooms,50,High,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,ada handicap stall,50,Low,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,bath aids for disabled,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,bath aids for disabled people,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,bath aids for disabled persons,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,bath chair for disabled,50,High,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,bath chair for disabled adults,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,bath lifts for disabled,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Differently-Abled Bath Products,bath seats for handicapped,50,Unknown,2.0,differently-abled-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,toilet partitions near me,50,Unknown,2.0,public-wide.csv,Keep,Relevant
+L2 Product,Public Restroom Solutions,commercial restroom,50,Unknown,2.0,public-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,commercial restroom mirrors,50,Unknown,2.0,mirrors-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,commercial restroom partitions,50,High,2.0,public-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,commercial restroom products,50,Unknown,2.0,public-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,commercial restroom sinks,50,Unknown,2.0,public-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,commercial restroom stalls,50,Unknown,2.0,public-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,commercial restroom trash can,50,Unknown,2.0,commercial-restroom-room-page-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,commercial toilet partitions,50,Unknown,2.0,public-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,fancy public restrooms,50,Unknown,2.0,commercial-restroom-room-page-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,glass public restroom,50,Low,2.0,commercial-restroom-room-page-wide.csv,Maybe,Low and non-local signal
+L2 Product,Public Restroom Solutions,luxury public restrooms,50,Unknown,2.0,commercial-restroom-room-page-wide.csv,Maybe,Low and non-local signal
+L1 Product,Kitchen Appliances & Sinks,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,carysil kitchen sink,500,High,2.0,carysil-wide.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,franke kitchen sink,500,High,2.0,franke-wide.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,best kitchen chimney in chennai,50,High,2.0,chimney.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,carysil kitchen sink dealers near me,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,carysil kitchen sink near me,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,carysil kitchen sink price,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,carysil kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,carysil quartz kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,faber kitchen chimney price in chennai,50,Unknown,2.0,chimney.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,franke kitchen sink chennai,50,High,2.0,franke.csv,Keep,Relevant
+L1 Product,Kitchen Appliances & Sinks,franke kitchen sink near me,50,Low,2.0,franke-wide.csv,Keep,Relevant
+L2 Product,Sinks,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Sinks,carysil kitchen sink dealers near me,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Sinks,carysil kitchen sink near me,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Sinks,carysil kitchen sink price,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Sinks,carysil kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Sinks,carysil quartz kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Sinks,carysil quartz sink price,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Sinks,carysil stainless steel sink price,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Sinks,franke kitchen sink chennai,50,High,2.0,franke.csv,Keep,Relevant
+L2 Product,Sinks,franke kitchen sink near me,50,Low,2.0,franke-wide.csv,Keep,Relevant
+L2 Product,Sinks,franke kitchen sink price,50,High,2.0,franke-wide.csv,Keep,Relevant
+L2 Product,Sinks,franke kitchen sink price list,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+L2 Product,Chimneys,best kitchen chimney in chennai,50,High,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,carysil chimney price,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Chimneys,carysil chimney price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Chimneys,chimney price chennai,50,High,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,chimney price in chennai,50,High,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,chimney showroom chennai,50,Low,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,chimney showroom in chennai,50,Low,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,electric chimney price in chennai,50,Unknown,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,elica chimney price in chennai,50,High,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,elica chimney showroom chennai,50,Low,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,elica chimney showroom in chennai,50,Unknown,2.0,chimney.csv,Keep,Relevant
+L2 Product,Chimneys,faber chimney price chennai,50,High,2.0,chimney.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,carysil kitchen sink dealers near me,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,carysil kitchen sink near me,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,carysil kitchen sink price,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,carysil kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,carysil quartz kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,franke kitchen sink chennai,50,High,2.0,franke.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,franke kitchen sink near me,50,Low,2.0,franke-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,franke kitchen sink price,50,High,2.0,franke-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,franke kitchen sink price list,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,hindware kitchen sink dealers near me,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+L2 Product,Kitchen Sinks & Faucets,kitchen sink models in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+,Other Appliances,hoods and hobs chennai,50,Unknown,2.0,chimney.csv,Keep,Relevant
+,Other Appliances,carysil kitchen appliances,50,Low,2.0,carysil-wide.csv,Maybe,Low and non-local signal
+Brand,GROHE,grohe chennai,50,Low,2.0,grohe.csv,Keep,Relevant
+Brand,GROHE,grohe dealers,50,Low,2.0,grohe-wide.csv,Keep,Relevant
+Brand,GROHE,grohe dealers in chennai,50,Low,2.0,grohe.csv,Keep,Relevant
+Brand,GROHE,grohe health faucet price,50,High,2.0,grohe-wide.csv,Keep,Relevant
+Brand,GROHE,grohe price,50,Unknown,2.0,grohe-wide.csv,Keep,Relevant
+Brand,GROHE,grohe sensia arena price,50,Unknown,2.0,grohe-wide.csv,Keep,Relevant
+Brand,GROHE,grohe shop,50,Low,2.0,grohe-wide.csv,Keep,Relevant
+Brand,GROHE,grohe shop online,50,Unknown,2.0,grohe-wide.csv,Keep,Relevant
+Brand,GROHE,grohe shower price,50,High,2.0,grohe-wide.csv,Keep,Relevant
+Brand,GROHE,grohe showroom chennai,50,Low,2.0,grohe.csv,Keep,Relevant
+Brand,GROHE,grohe showroom in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Brand,GROHE,grohe taps price,50,High,2.0,grohe-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramics chennai,500,Low,2.0,rak.csv,Keep,Relevant
+Brand,RAK Ceramics,floor rak tiles price list,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,price of rak tiles,50,Low,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak basin price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramic dealers,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramic near me,50,Low,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramic tiles price,50,Low,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramics basin price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramics dealers in chennai,50,Low,2.0,rak.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramics dealers near me,50,Low,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramics near me,50,Low,2.0,rak-wide.csv,Keep,Relevant
+Brand,RAK Ceramics,rak ceramics price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+Brand,AGL,agl bathroom tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl bathware price list,50,High,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl cool roof tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl dealers,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl dealers near me,50,Low,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl double charge vitrified tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl floor tiles price,50,Low,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl floor tiles price list,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl parking tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl quartz dealers near me,50,Medium,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl tile adhesive price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Brand,AGL,agl tiles 2x2 price,50,Low,2.0,agl-wide.csv,Keep,Relevant
+Brand,Hindware,hindware showroom near me,500,Low,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,flush tank hindware price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,hindware authorised dealer near me,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,hindware automatic toilet price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,hindware basic commode price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,hindware bathroom hindware indian toilet seat price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,hindware bathtub price in chennai,50,Unknown,2.0,hindware.csv,Keep,Relevant
+Brand,Hindware,hindware cascade commode price,50,High,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,hindware ceramic flush tank price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+Brand,Hindware,hindware chennai,50,Medium,2.0,hindware.csv,Keep,Relevant
+Brand,Hindware,hindware chennai dealers,50,Medium,2.0,hindware.csv,Keep,Relevant
+Brand,Hindware,hindware chimney showroom in chennai,50,Low,2.0,chimney.csv,Keep,Relevant
+Brand,Carysil,carysil chennai,50,Low,2.0,carysil.csv,Keep,Relevant
+Brand,Carysil,carysil chimney price,50,High,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil chimney price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil dealers in chennai,50,Low,2.0,carysil.csv,Keep,Relevant
+Brand,Carysil,carysil dealers near me,50,Low,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil double bowl sink price,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil food waste disposer price,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil granite sink price,50,High,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil kitchen sink dealers near me,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil kitchen sink near me,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil kitchen sink price,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Carysil,carysil kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+Brand,Franke,best price franke sinks,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke 611 omni price,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke double sink price,50,High,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke kitchen sink chennai,50,High,2.0,franke.csv,Keep,Relevant
+Brand,Franke,franke kitchen sink near me,50,Low,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke kitchen sink price,50,High,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke kitchen sink price list,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke sink dealers in chennai,50,High,2.0,franke.csv,Keep,Relevant
+Brand,Franke,franke sink price,50,High,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke sink price list,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke sinks near me,50,High,2.0,franke-wide.csv,Keep,Relevant
+Brand,Franke,franke stainless steel sink price,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+Brand,Roff,asian roff cement 30kg price,50,Unknown,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,pidilite roff price,50,Unknown,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,pidilite roff tile adhesive price,50,Unknown,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff adhesive price,50,High,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement 1kg price,50,High,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement 20 kg price,50,High,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement 20kg price,50,High,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement 25kg price,50,High,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement 30 kg price,50,Medium,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement 50kg price,50,High,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement for tiles price,50,Unknown,2.0,roff-wide.csv,Keep,Relevant
+Brand,Roff,roff cement near me,50,Unknown,2.0,roff-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex a45 price,50,Unknown,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex cl 11 price,50,Unknown,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex dealer,50,Unknown,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex endura chennai,50,Low,2.0,ardex.csv,Keep,Relevant
+Brand,Ardex Endura,ardex endura dealers near me,50,Low,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex endura diamond star price,50,Unknown,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex endura epoxy grout price,50,High,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex endura gold star price,50,Unknown,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex endura price,50,Low,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex near me,50,Unknown,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex p51 primer price,50,Unknown,2.0,ardex-wide.csv,Keep,Relevant
+Brand,Ardex Endura,ardex endura,500,Low,2.0,ardex-wide.csv,Maybe,Good term but weak local signal
+Brand,AO Smith,ao smith 10 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith 15 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith 25 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith 3 litre geyser price,50,Unknown,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith 300 litre heat pump price,50,Unknown,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith 5 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith 6 litre geyser price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith 6 litre water heater price,50,High,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith authorized dealers,50,Unknown,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith booster pump price,50,Unknown,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,AO Smith,ao smith chennai,50,Low,2.0,ao-smith.csv,Keep,Relevant
+Brand,AO Smith,ao smith dealers,50,Medium,2.0,ao-smith-wide.csv,Keep,Relevant
+Brand,Racold,gas geyser racold price,50,Unknown,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,geyser 10 ltr price racold,50,Unknown,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,geyser 15 ltr price 5 star racold,50,Low,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,geyser 15 ltr price racold,50,High,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,geyser 25 ltr price racold,50,Unknown,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,price list of racold geyser,50,Medium,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,price of racold geyser 15 litre,50,Low,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,price of racold solar water heater,50,High,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,racold 1 litre geyser price,50,High,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,racold 10 litre geyser price,50,High,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,racold 10 ltr geyser coil price,50,Low,2.0,racold-wide.csv,Keep,Relevant
+Brand,Racold,racold 100 ltr geyser price,50,Unknown,2.0,racold-wide.csv,Keep,Relevant
+Room,Bathroom Solutions,bathroom accessories chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathroom fittings chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathroom fittings wholesale in chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathroom accessories shop in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathroom fittings chennai parrys,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathroom fittings manufacturers in chennai,50,Unknown,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathroom fittings showroom in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathtub chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,bathtub rooms in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,best bathroom fittings in chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,cera sanitaryware dealers in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Bathroom Solutions,designer wash basin chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Kitchen Essentials,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Kitchen Essentials,best kitchen chimney in chennai,50,High,2.0,chimney.csv,Keep,Relevant
+Room,Kitchen Essentials,carysil kitchen sink dealers near me,50,Unknown,2.0,carysil-wide.csv,Keep,Relevant
+Room,Kitchen Essentials,carysil kitchen sink near me,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+Room,Kitchen Essentials,carysil kitchen sink price,50,Medium,2.0,carysil-wide.csv,Keep,Relevant
+Room,Kitchen Essentials,carysil kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+Room,Kitchen Essentials,carysil quartz kitchen sink price list,50,High,2.0,carysil-wide.csv,Keep,Relevant
+Room,Kitchen Essentials,faber kitchen chimney price in chennai,50,Unknown,2.0,chimney.csv,Keep,Relevant
+Room,Kitchen Essentials,franke kitchen sink chennai,50,High,2.0,franke.csv,Keep,Relevant
+Room,Kitchen Essentials,franke kitchen sink near me,50,Low,2.0,franke-wide.csv,Keep,Relevant
+Room,Kitchen Essentials,franke kitchen sink price,50,High,2.0,franke-wide.csv,Keep,Relevant
+Room,Kitchen Essentials,franke kitchen sink price list,50,Unknown,2.0,franke-wide.csv,Keep,Relevant
+Room,Outdoor & Parking,agl parking tiles price,50,Unknown,2.0,agl-wide.csv,Keep,Relevant
+Room,Outdoor & Parking,car parking tiles chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Outdoor & Parking,car parking tiles in chennai,50,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Outdoor & Parking,car parking tiles price in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Outdoor & Parking,parking tiles chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Outdoor & Parking,parking tiles price in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Keep,Relevant
+Room,Outdoor & Parking,rak parking tiles price,50,Unknown,2.0,rak-wide.csv,Keep,Relevant
+Room,Outdoor & Parking,agl parking tiles,50,Unknown,2.0,agl-wide.csv,Maybe,Low and non-local signal
+Room,Outdoor & Parking,rak ceramics parking tiles,50,High,2.0,rak-wide.csv,Maybe,Low and non-local signal
+Room,Outdoor & Parking,rak outdoor tiles,50,Low,2.0,rak-wide.csv,Maybe,Low and non-local signal
+Room,Outdoor & Parking,rak parking tiles,50,Low,2.0,rak-wide.csv,Maybe,Low and non-local signal
+Room,Outdoor & Parking,rak ceramics outdoor tiles,0,Unknown,2.0,rak-wide.csv,Drop,No volume
+Room,Commercial Restrooms,bathroom urinal price,50,Unknown,2.0,urinals-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,hindware urinal 60002 price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,hindware urinal basin price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,hindware urinal pot price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,hindware urinal price,50,Low,2.0,hindware-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,jaquar urinal price,50,Low,2.0,urinals-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,kerovit urinal price,50,Low,2.0,urinals-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,ladies urinal hindware price,50,Unknown,2.0,hindware-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,mens urinal price,50,High,2.0,urinals-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,parryware flat back urinal price,50,Low,2.0,urinals-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,public urinal near me,50,Low,2.0,commercial-restroom-room-page-wide.csv,Keep,Relevant
+Room,Commercial Restrooms,toilet partitions near me,50,Unknown,2.0,public-wide.csv,Keep,Relevant

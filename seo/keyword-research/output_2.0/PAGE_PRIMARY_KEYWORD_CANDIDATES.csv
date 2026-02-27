@@ -1,0 +1,39 @@
+page_type,page,candidate_primary_keyword,avg_monthly,competition,source_run,source_file,note
+Home,Home,tile showroom chennai,5000,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+About,About,,,,,,No strong term; run focused query
+L1 Product,Tiles,tile showroom chennai,5000,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Vitrified Tiles,2x2 vitrified tiles price in chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Ceramic Tiles,ceramic tiles chennai,50,Low,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Floor Tiles,floor tiles chennai,500,Medium,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Wall Tiles,agl wall tiles price,50,Unknown,2.0,agl-wide.csv,Top Keep candidate
+L1 Product,Sanitaryware & Bathroom Fittings,bathroom fittings chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Toilets and Water Closets,western toilet price chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Urinals,bathroom urinal price,50,Unknown,2.0,urinals-wide.csv,Top Keep candidate
+L2 Product,Wash Basins,designer wash basin chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Taps & Faucets,grohe health faucet price,50,High,2.0,grohe-wide.csv,Top Keep candidate
+L2 Product,Bath & Wellness,bathtub chennai,50,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Bathroom Accessories,bathroom accessories chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Mirrors & Cabinets,bathroom mirror shop near me,500,High,2.0,mirrors-wide.csv,Top Keep candidate
+L2 Product,Water Heaters,ao smith 10 litre geyser price,50,High,2.0,ao-smith-wide.csv,Top Keep candidate
+L2 Product,Floor Drains,floor drain price,50,Unknown,2.0,floor-drain-wide.csv,Top Keep candidate
+L2 Product,Differently-Abled Bath Products,handicap toilet accessories near me,50,High,2.0,differently-abled-wide.csv,Top Keep candidate
+L2 Product,Public Restroom Solutions,toilet partitions near me,50,Unknown,2.0,public-wide.csv,Top Keep candidate
+L1 Product,Kitchen Appliances & Sinks,carysil kitchen sink,500,High,2.0,carysil-wide.csv,Top Keep candidate
+L2 Product,Sinks,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+L2 Product,Chimneys,best kitchen chimney in chennai,50,High,2.0,chimney.csv,Top Keep candidate
+L2 Product,Kitchen Sinks & Faucets,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+,Other Appliances,hoods and hobs chennai,50,Unknown,2.0,chimney.csv,Top Keep candidate
+Brand,GROHE,grohe chennai,50,Low,2.0,grohe.csv,Top Keep candidate
+Brand,RAK Ceramics,rak ceramics chennai,500,Low,2.0,rak.csv,Top Keep candidate
+Brand,AGL,agl bathroom tiles price,50,Unknown,2.0,agl-wide.csv,Top Keep candidate
+Brand,Hindware,hindware showroom near me,500,Low,2.0,hindware-wide.csv,Top Keep candidate
+Brand,Carysil,carysil chennai,50,Low,2.0,carysil.csv,Top Keep candidate
+Brand,Franke,best price franke sinks,50,Unknown,2.0,franke-wide.csv,Top Keep candidate
+Brand,Roff,asian roff cement 30kg price,50,Unknown,2.0,roff-wide.csv,Top Keep candidate
+Brand,Ardex Endura,ardex a45 price,50,Unknown,2.0,ardex-wide.csv,Top Keep candidate
+Brand,AO Smith,ao smith 10 litre geyser price,50,High,2.0,ao-smith-wide.csv,Top Keep candidate
+Brand,Racold,gas geyser racold price,50,Unknown,2.0,racold-wide.csv,Top Keep candidate
+Room,Bathroom Solutions,bathroom accessories chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+Room,Kitchen Essentials,kitchen sink chennai,500,High,1.0,DEDUPED_KEYWORDS_MASTER.csv,Top Keep candidate
+Room,Outdoor & Parking,agl parking tiles price,50,Unknown,2.0,agl-wide.csv,Top Keep candidate
+Room,Commercial Restrooms,bathroom urinal price,50,Unknown,2.0,urinals-wide.csv,Top Keep candidate
