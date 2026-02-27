@@ -5,6 +5,44 @@ This is the consolidated source of truth for:
 - Shop by Room behavior
 - Brand page behavior (major vs smaller brands)
 
+## Priority Phases
+
+## P0 - Launch Critical (Must Have)
+
+- Finalize and ship primary navigation:
+  - `Products`
+  - Room pages (direct links, no separate Shop by Room hub page)
+- Implement room landing pages as curated hubs:
+  - `/bathroom-solutions`
+  - `/kitchen-essentials`
+  - `/outdoor-parking`
+- Implement brand routing with fallback behavior:
+  - Dedicated page for major brands
+  - Filtered product listing for smaller brands
+- Add backend/admin toggle:
+  - `dedicated_brand_page_enabled` per brand
+- Apply agreed SEO metadata and hero-copy structure for confirmed pages.
+
+## P1 - Post-Launch Stabilization (Should Have)
+
+- Expand/standardize dedicated brand pages for priority brands.
+- Add QA rules for metadata generation at scale:
+  - duplication checks
+  - length checks
+  - fallback behavior checks
+- Improve room-page curation blocks and internal linking depth to key L2 pages.
+- Validate indexability/canonical setup for:
+  - dedicated brand pages
+  - filtered listing fallback pages
+
+## P2 - Enhancement (Future)
+
+- Add room-tagging model for products/categories:
+  - one product can map to multiple rooms
+- Use room tags for dynamic room-page curation.
+- Expand collection-led merchandising and brand-led collection pages as data matures.
+- Iterate based on real search and conversion data after launch.
+
 ## 1) Navigation and Information Architecture
 
 - Keep `Products` and room-based discovery as separate concepts.
